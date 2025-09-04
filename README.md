@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .DATE one-word domains still available to buy.
 
-This dataset contains 4,530 .DATE one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,569 .DATE one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.DATE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=date-oneword-domains&utm_content=description.top) (4,253) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,14 +13,15 @@ If you want to search & filters the complete database of [.DATE one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/date-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/date-oneword-domains/blob/main/date.csv"><b>⬇️ CSV (4.53K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/date-oneword-domains/blob/main/date.json"><b>⬇️ JSON (4.53K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/date-oneword-domains/blob/main/date.csv"><b>⬇️ CSV (4.57K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/date-oneword-domains/blob/main/date.json"><b>⬇️ JSON (4.57K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=date-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.25K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
+| aaron.date      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.date  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.date      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.date  | available | 58       | 10%    | 9      |           |         |         |
@@ -30,6 +31,7 @@ If you want to search & filters the complete database of [.DATE one word domains
 | abatic.date     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.date    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.date   | available | 50       | 1%     | 8      |           |         |         |
+| abc.date        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.date  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.date  | premium   | 82       | 1%     | 9      |           |         |         |
 | abdominous.date | available | 56       | 1%     | 10     |           |         |         |
@@ -43,19 +45,17 @@ If you want to search & filters the complete database of [.DATE one word domains
 | abhorrent.date  | available | 54       | 1%     | 9      |           |         |         |
 | abiding.date    | available | 106      | 5%     | 7      |           |         |         |
 | abient.date     | available | 54       | 1%     | 6      |           |         |         |
+| ability.date    | available | 92       | 18%    | 7      |           |         |         |
 | abkhas.date     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.date  | available | 78       | 1%     | 9      |           |         |         |
 | abkhaz.date     | available | 82       | 2%     | 6      |           |         |         |
 | abkhazian.date  | available | 78       | 1%     | 9      |           |         |         |
 | ablated.date    | available | 52       | 2%     | 7      |           |         |         |
-| ablative.date   | available | 68       | 3%     | 8      |           |         |         |
-| ablaze.date     | available | 72       | 6%     | 6      |           |         |         |
-| able.date       | premium   | 80       | 32%    | 4      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/date-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/date-oneword-domains/blob/main/date.csv"><b>⬇️ CSV (4.53K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/date-oneword-domains/blob/main/date.json"><b>⬇️ JSON (4.53K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/date-oneword-domains/blob/main/date.csv"><b>⬇️ CSV (4.57K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/date-oneword-domains/blob/main/date.json"><b>⬇️ JSON (4.57K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=date-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.25K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
