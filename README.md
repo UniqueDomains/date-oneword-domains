@@ -24,7 +24,7 @@ If you want to search & filters the complete database of [.DATE one word domains
 | aaron.date      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.date  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.date      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.date  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.date  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.date    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.date     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.date   | available | 54       | 1%     | 8      |           |         |         |
@@ -33,7 +33,7 @@ If you want to search & filters the complete database of [.DATE one word domains
 | abbatial.date   | available | 50       | 1%     | 8      |           |         |         |
 | abc.date        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.date  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.date  | premium   | 82       | 1%     | 9      |           |         |         |
+| abdominal.date  | premium   | 82       | 5%     | 9      |           |         |         |
 | abdominous.date | available | 56       | 1%     | 10     |           |         |         |
 | abducens.date   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.date   | available | 68       | 1%     | 8      |           |         |         |
@@ -42,7 +42,7 @@ If you want to search & filters the complete database of [.DATE one word domains
 | aberdonian.date | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.date   | premium   | 74       | 7%     | 8      |           |         |         |
 | abeyant.date    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.date  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.date  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.date    | available | 106      | 5%     | 7      |           |         |         |
 | abient.date     | available | 54       | 1%     | 6      |           |         |         |
 | ability.date    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.DATE one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
