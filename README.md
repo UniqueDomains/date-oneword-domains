@@ -81,7 +81,7 @@ print(df.head())
 | enterprise.date  | premium   | $390      | $65           | 68             | 61     | 10     | namecheap                                           |
 | abundant.date    | available | $9.98     | —             | 80             | 21     | 8      | namecheap                                           |
 | realestate.date  | resell    | —         | —             | —              | 40     | 11     | Dynadot Inc                                         |
-| zero.date        | premium   | $375      | $62.50        | 112            | 54     | 4      | name.com                                            |
+| zero.date        | premium   | $375      | $62.50        | 112            | 53     | 4      | name.com                                            |
 | cooked.date      | available | $9.98     | —             | 70             | 21     | 6      | namecheap                                           |
 | american.date    | resell    | —         | —             | 98             | 37     | 8      | GoDaddy.com, LLC                                    |
 
