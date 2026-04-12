@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .date one-word domains from Unique
 
 **Public extract:** 9,692 rows · **Live catalog:** 9,692 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/date`  
 **Best for:** founders, investors, studios
 
@@ -81,9 +81,9 @@ print(df.head())
 | enterprise.date  | premium   | $390      | $65           | 68             | 61     | 10     | namecheap                                           |
 | abundant.date    | available | $9.98     | —             | 80             | 21     | 8      | namecheap                                           |
 | realestate.date  | resell    | —         | —             | —              | 40     | 11     | Dynadot Inc                                         |
-| zero.date        | premium   | $375      | $62.50        | 112            | 53     | 4      | name.com                                            |
+| zero.date        | premium   | $375      | $62.50        | 112            | 54     | 4      | name.com                                            |
 | cooked.date      | available | $9.98     | —             | 70             | 21     | 6      | namecheap                                           |
-| american.date    | resell    | —         | —             | 98             | 38     | 8      | GoDaddy.com, LLC                                    |
+| american.date    | resell    | —         | —             | 98             | 37     | 8      | GoDaddy.com, LLC                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DATE One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DATE One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
