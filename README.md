@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .date one-word domains from Unique
 
 **Public extract:** 9,692 rows · **Live catalog:** 9,692 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/date`  
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | curative.date    | available | $9.98     | —             | 92             | 27     | 8      | namecheap                                           |
 | now.date         | resell    | —         | —             | 78             | 66     | 3      | Spaceship, Inc.                                     |
 | converse.date    | premium   | $375      | $62.50        | 64             | 73     | 8      | name.com                                            |
-| damn.date        | available | $9.98     | —             | 140            | 24     | 4      | namecheap                                           |
+| damn.date        | available | $9.98     | —             | 140            | 23     | 4      | namecheap                                           |
 | cloud.date       | resell    | —         | —             | 70             | 59     | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | easy.date        | premium   | $375      | $187.50       | 128            | 62     | 4      | name.com                                            |
 | banking.date     | available | $9.98     | —             | 76             | 23     | 7      | namecheap                                           |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DATE One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DATE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
