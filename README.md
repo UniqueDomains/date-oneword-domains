@@ -82,7 +82,7 @@ print(df.head())
 | abundant.date    | available | $9.98     | —             | 80             | 21     | 8      | namecheap                                           |
 | realestate.date  | resell    | —         | —             | —              | 40     | 11     | Dynadot Inc                                         |
 | zero.date        | premium   | $375      | $62.50        | 112            | 53     | 4      | name.com                                            |
-| cooked.date      | available | $9.98     | —             | 70             | 21     | 6      | namecheap                                           |
+| cooked.date      | available | $9.98     | —             | 70             | 20     | 6      | namecheap                                           |
 | american.date    | resell    | —         | —             | 98             | 37     | 8      | GoDaddy.com, LLC                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
