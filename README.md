@@ -1,22 +1,22 @@
-# Available .DATE One-Word Domains (9,692)
+# Available .DATE One-Word Domains (12,050)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C692%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C692%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C050%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .date one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .date one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,050 domains** on the canonical page below.
 
-**Public extract:** 9,692 rows · **Live catalog:** 9,692 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,050 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/date`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .DATE one-word domain 
 
 ### Files
 
-- `date.csv` — public CSV extract (9,692 rows)
-- `date.json` — public JSON extract (9,692 rows)
+- `date.csv` — public CSV extract (1,000 rows)
+- `date.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| curative.date    | available | $9.98     | —             | 92             | 27     | 8      | namecheap                                           |
-| now.date         | resell    | —         | —             | 78             | 66     | 3      | Spaceship, Inc.                                     |
-| converse.date    | premium   | $375      | $62.50        | 64             | 73     | 8      | name.com                                            |
-| damn.date        | available | $9.98     | —             | 140            | 23     | 4      | namecheap                                           |
-| cloud.date       | resell    | —         | —             | 70             | 59     | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| easy.date        | premium   | $375      | $187.50       | 128            | 62     | 4      | name.com                                            |
-| banking.date     | available | $9.98     | —             | 76             | 23     | 7      | namecheap                                           |
-| law.date         | resell    | —         | —             | 82             | 46     | 3      | West263 International Limited                       |
-| power.date       | premium   | $390      | $65           | 98             | 62     | 5      | namecheap                                           |
-| leasing.date     | available | $9.98     | —             | 70             | 23     | 7      | namecheap                                           |
-| super.date       | resell    | —         | —             | 58             | 45     | 5      | 1API GmbH                                           |
-| seventeen.date   | premium   | $375      | $62.50        | 84             | 62     | 9      | name.com                                            |
-| engineering.date | available | $9.98     | —             | 74             | 22     | 11     | namecheap                                           |
-| change.date      | resell    | —         | —             | 100            | 40     | 6      | GoDaddy.com, LLC                                    |
-| enterprise.date  | premium   | $390      | $65           | 68             | 61     | 10     | namecheap                                           |
-| abundant.date    | available | $9.98     | —             | 80             | 21     | 8      | namecheap                                           |
-| realestate.date  | resell    | —         | —             | —              | 40     | 11     | Dynadot Inc                                         |
-| zero.date        | premium   | $375      | $62.50        | 112            | 53     | 4      | name.com                                            |
-| cooked.date      | available | $9.98     | —             | 70             | 20     | 6      | namecheap                                           |
-| american.date    | resell    | —         | —             | 98             | 37     | 8      | GoDaddy.com, LLC                                    |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| trades.date       | available | $5.25     | $6.25         | 71             | 26     | 6      | namesilo  |
+| Chanel.date       | premium   | $420      | $70           | 80             | 77     | 6      | namecheap |
+| deeplearning.date | available | $9.98     | —             | 74             | 23     | 13     | namecheap |
+| donuts.date       | premium   | $375      | —             | 54             | 62     | 6      | name.com  |
+| machines.date     | available | $9.98     | —             | 56             | 22     | 8      | namecheap |
+| robots.date       | premium   | $375      | —             | 62             | 47     | 6      | name.com  |
+| managed.date      | available | $9.98     | —             | 58             | 20     | 7      | namecheap |
+| jobs.date         | premium   | $375      | —             | 79             | 42     | 4      | name.com  |
+| orders.date       | available | $9.98     | —             | 60             | 19     | 6      | namecheap |
+| shortcuts.date    | premium   | $375      | —             | 48             | 41     | 10     | name.com  |
+| videogames.date   | available | $9.98     | —             | 66             | 18     | 11     | namecheap |
+| stories.date      | premium   | $375      | —             | 58             | 36     | 7      | name.com  |
+| fruits.date       | available | $9.98     | —             | 74             | 17     | 6      | namecheap |
+| etc.date          | premium   | $125      | —             | 58             | 34     | 3      | name.com  |
+| Automobiles.date  | available | $9.98     | —             | 62             | 17     | 11     | namecheap |
+| payments.date     | premium   | $375      | —             | 58             | 33     | 8      | name.com  |
+| templates.date    | available | $9.98     | —             | 54             | 17     | 9      | namecheap |
+| partners.date     | premium   | $375      | —             | 61             | 32     | 8      | name.com  |
+| solarenergy.date  | available | $9.98     | —             | 88             | 16     | 12     | namecheap |
+| trends.date       | premium   | $375      | —             | 60             | 32     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,692-row public sample | 9,692 live domains                               |
+| 1,000-row public sample | 12,050 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DATE One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DATE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
