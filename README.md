@@ -1,10 +1,10 @@
-# Available .DATE One-Word Domains (12,050)
+# Available .DATE One-Word Domains (12,663)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C050%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C663%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .date one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,050 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,663 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,050 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,663 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/date`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| trades.date       | available | $5.25     | $6.25         | 71             | 26     | 6      | namesilo  |
-| Chanel.date       | premium   | $420      | $70           | 80             | 77     | 6      | namecheap |
 | deeplearning.date | available | $9.98     | —             | 74             | 23     | 13     | namecheap |
 | donuts.date       | premium   | $375      | —             | 54             | 62     | 6      | name.com  |
 | machines.date     | available | $9.98     | —             | 56             | 22     | 8      | namecheap |
-| robots.date       | premium   | $375      | —             | 62             | 47     | 6      | name.com  |
-| managed.date      | available | $9.98     | —             | 58             | 20     | 7      | namecheap |
 | jobs.date         | premium   | $375      | —             | 79             | 42     | 4      | name.com  |
-| orders.date       | available | $9.98     | —             | 60             | 19     | 6      | namecheap |
-| shortcuts.date    | premium   | $375      | —             | 48             | 41     | 10     | name.com  |
-| videogames.date   | available | $9.98     | —             | 66             | 18     | 11     | namecheap |
+| managed.date      | available | $9.98     | —             | 58             | 20     | 7      | namecheap |
 | stories.date      | premium   | $375      | —             | 58             | 36     | 7      | name.com  |
-| fruits.date       | available | $9.98     | —             | 74             | 17     | 6      | namecheap |
+| mobiles.date      | available | $5.25     | $6.25         | 62             | 19     | 7      | namesilo  |
 | etc.date          | premium   | $125      | —             | 58             | 34     | 3      | name.com  |
-| Automobiles.date  | available | $9.98     | —             | 62             | 17     | 11     | namecheap |
+| fruits.date       | available | $9.98     | —             | 74             | 17     | 6      | namecheap |
 | payments.date     | premium   | $375      | —             | 58             | 33     | 8      | name.com  |
 | templates.date    | available | $9.98     | —             | 54             | 17     | 9      | namecheap |
-| partners.date     | premium   | $375      | —             | 61             | 32     | 8      | name.com  |
-| solarenergy.date  | available | $9.98     | —             | 88             | 16     | 12     | namecheap |
 | trends.date       | premium   | $375      | —             | 60             | 32     | 6      | name.com  |
+| solarenergy.date  | available | $9.98     | —             | 88             | 16     | 12     | namecheap |
+| slots.date        | premium   | $375      | —             | 49             | 31     | 5      | name.com  |
+| offices.date      | available | $9.98     | —             | 60             | 16     | 7      | namecheap |
+| rewards.date      | premium   | $375      | —             | 62             | 30     | 7      | name.com  |
+| posts.date        | available | $5.25     | $6.25         | 54             | 16     | 5      | namesilo  |
+| heroes.date       | premium   | $375      | —             | 68             | 29     | 6      | name.com  |
+| workfromhome.date | available | $5.25     | $6.25         | 51             | 16     | 14     | namesilo  |
+| cams.date         | premium   | $375      | —             | 52             | 29     | 4      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,050 live domains                              |
+| 1,000-row public sample | 12,663 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DATE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DATE One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
