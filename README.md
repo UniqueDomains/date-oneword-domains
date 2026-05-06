@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .date one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,663 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,663 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,663 domains · **Median ask:** $171.53 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/date`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,19 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Acup.date         | available | $9.98     | —             | 80             | 5      | 5      | namecheap |
+| dogsit.date       | available | $9.98     | —             | 96             | 2      | 6      | namecheap |
+| playin.date       | available | $9.98     | —             | 80             | 10     | 7      | namecheap |
+| pierogi.date      | available | $9.98     | —             | 82             | 7      | 7      | namecheap |
+| dogsick.date      | available | $9.98     | —             | 90             | 1      | 7      | namecheap |
+| beawake.date      | available | $9.98     | —             | 84             | 3      | 8      | namecheap |
+| fitinto.date      | available | $9.98     | —             | 84             | 2      | 8      | namecheap |
+| dogstail.date     | available | $9.98     | —             | 94             | 1      | 8      | namecheap |
+| getjiggy.date     | available | $9.98     | —             | 80             | 2      | 9      | namecheap |
+| midautumn.date    | available | $9.98     | —             | 80             | 2      | 9      | namecheap |
+| getiton.date      | available | $9.98     | —             | 84             | 3      | 9      | namecheap |
+| turninto.date     | available | $9.98     | —             | 86             | 2      | 9      | namecheap |
+| operacake.date    | available | $9.98     | —             | 80             | 1      | 10     | namecheap |
 | deeplearning.date | available | $9.98     | —             | 74             | 23     | 13     | namecheap |
 | donuts.date       | premium   | $375      | —             | 54             | 62     | 6      | name.com  |
 | machines.date     | available | $9.98     | —             | 56             | 22     | 8      | namecheap |
@@ -71,19 +84,6 @@ print(df.head())
 | managed.date      | available | $9.98     | —             | 58             | 20     | 7      | namecheap |
 | stories.date      | premium   | $375      | —             | 58             | 36     | 7      | name.com  |
 | mobiles.date      | available | $5.25     | $6.25         | 62             | 19     | 7      | namesilo  |
-| etc.date          | premium   | $125      | —             | 58             | 34     | 3      | name.com  |
-| fruits.date       | available | $9.98     | —             | 74             | 17     | 6      | namecheap |
-| payments.date     | premium   | $375      | —             | 58             | 33     | 8      | name.com  |
-| templates.date    | available | $9.98     | —             | 54             | 17     | 9      | namecheap |
-| trends.date       | premium   | $375      | —             | 60             | 32     | 6      | name.com  |
-| solarenergy.date  | available | $9.98     | —             | 88             | 16     | 12     | namecheap |
-| slots.date        | premium   | $375      | —             | 49             | 31     | 5      | name.com  |
-| offices.date      | available | $9.98     | —             | 60             | 16     | 7      | namecheap |
-| rewards.date      | premium   | $375      | —             | 62             | 30     | 7      | name.com  |
-| posts.date        | available | $5.25     | $6.25         | 54             | 16     | 5      | namesilo  |
-| heroes.date       | premium   | $375      | —             | 68             | 29     | 6      | name.com  |
-| workfromhome.date | available | $5.25     | $6.25         | 51             | 16     | 14     | namesilo  |
-| cams.date         | premium   | $375      | —             | 52             | 29     | 4      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,663 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,663 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of .date domains. The set includes direct keyword names, conversational phrases, and unusual word combinations, with examples such as Acup.date, LGBTQ.date, dogsit.date, getlife.date, and presents.date. For founders, the best options are usually the names that read naturally, communicate a use case fast, and remain easy to say and recall. For investors, the key question is whether a term has obvious end-user relevance at the right ask. With a median ask of $172, price is accessible, but .date is a niche extension, so renewal cost, buyer fit, and resale depth matter more than raw volume.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All results use the .date extension
+- Median ask across this set is $172
+- Prioritize natural phrase fit over novelty
+- Check renewal cost before judging the ask
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DATE One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DATE One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
