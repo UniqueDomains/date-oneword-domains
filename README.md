@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .date one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,662 domains · **Median ask:** $171.53 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/date`  
 **Best for:** founders, investors, studios
 
@@ -70,12 +70,12 @@ print(df.head())
 | pierogi.date      | available | $9.98     | —             | 82             | 7      | 7      | namecheap |
 | dogsick.date      | available | $9.98     | —             | 90             | 1      | 7      | namecheap |
 | beawake.date      | available | $9.98     | —             | 84             | 3      | 8      | namecheap |
-| fitinto.date      | available | $9.98     | —             | 84             | 2      | 8      | namecheap |
+| fitinto.date      | available | $9.98     | —             | 84             | 1      | 8      | namecheap |
 | dogstail.date     | available | $9.98     | —             | 94             | 1      | 8      | namecheap |
 | getjiggy.date     | available | $9.98     | —             | 80             | 2      | 9      | namecheap |
 | midautumn.date    | available | $9.98     | —             | 80             | 2      | 9      | namecheap |
 | getiton.date      | available | $9.98     | —             | 84             | 3      | 9      | namecheap |
-| turninto.date     | available | $9.98     | —             | 86             | 2      | 9      | namecheap |
+| turninto.date     | available | $9.98     | —             | 86             | 3      | 9      | namecheap |
 | operacake.date    | available | $9.98     | —             | 80             | 1      | 10     | namecheap |
 | deeplearning.date | available | $9.98     | —             | 74             | 23     | 13     | namecheap |
 | donuts.date       | premium   | $375      | —             | 54             | 62     | 6      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DATE One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DATE One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
