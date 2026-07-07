@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .date one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,662 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,662 domains · **Median ask:** $171.53 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,662 domains · **Median ask:** $215.84 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/date`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/date`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .DATE one-word domain 
 
 ### Files
 
-- `date.csv` — public CSV extract (1,000 rows)
-- `date.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `date.csv`, public CSV extract (1,000 rows)
+- `date.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Acup.date         | available | $9.98     | —             | 80             | 5      | 5      | namecheap |
-| dogsit.date       | available | $9.98     | —             | 96             | 2      | 6      | namecheap |
-| playin.date       | available | $9.98     | —             | 80             | 10     | 7      | namecheap |
-| pierogi.date      | available | $9.98     | —             | 82             | 7      | 7      | namecheap |
-| dogsick.date      | available | $9.98     | —             | 90             | 1      | 7      | namecheap |
-| beawake.date      | available | $9.98     | —             | 84             | 3      | 8      | namecheap |
-| fitinto.date      | available | $9.98     | —             | 84             | 1      | 8      | namecheap |
-| dogstail.date     | available | $9.98     | —             | 94             | 1      | 8      | namecheap |
-| getjiggy.date     | available | $9.98     | —             | 80             | 2      | 9      | namecheap |
-| midautumn.date    | available | $9.98     | —             | 80             | 2      | 9      | namecheap |
-| getiton.date      | available | $9.98     | —             | 84             | 3      | 9      | namecheap |
-| turninto.date     | available | $9.98     | —             | 86             | 3      | 9      | namecheap |
-| operacake.date    | available | $9.98     | —             | 80             | 1      | 10     | namecheap |
-| deeplearning.date | available | $9.98     | —             | 74             | 23     | 13     | namecheap |
-| donuts.date       | premium   | $375      | —             | 54             | 62     | 6      | name.com  |
-| machines.date     | available | $9.98     | —             | 56             | 22     | 8      | namecheap |
-| jobs.date         | premium   | $375      | —             | 79             | 42     | 4      | name.com  |
-| managed.date      | available | $9.98     | —             | 58             | 20     | 7      | namecheap |
-| stories.date      | premium   | $375      | —             | 58             | 36     | 7      | name.com  |
-| mobiles.date      | available | $5.25     | $6.25         | 62             | 19     | 7      | namesilo  |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| ahuh.date   | available | $5.25     | $6.25         | high           | low    | 4      | namesilo         |
+| yesno.date  | resell    | $9.98     | —             | low            | low    | 6      | GoDaddy.com, LLC |
+| aid.date    | premium   | $375      | —             | medium         | low    | 3      | name.com         |
+| grew.date   | available | $5.25     | $6.25         | high           | low    | 4      | namesilo         |
+| change.date | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
+| ala.date    | premium   | $375      | —             | high           | low    | 3      | name.com         |
+| laws.date   | available | $5.25     | $6.25         | high           | low    | 4      | namesilo         |
+| ane.date    | premium   | $375      | $62.50        | low            | low    | 3      | name.com         |
+| xvii.date   | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo         |
+| axe.date    | premium   | $116      | $29.50        | medium         | low    | 3      | namesilo         |
+| xxii.date   | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo         |
+| BJP.date    | premium   | $375      | —             | medium         | low    | 3      | name.com         |
+| began.date  | available | $5.25     | $6.25         | medium         | low    | 5      | namesilo         |
+| btw.date    | premium   | $375      | —             | high           | low    | 3      | name.com         |
+| costs.date  | available | $5.25     | $6.25         | high           | low    | 5      | namesilo         |
+| CNN.date    | premium   | $375      | —             | high           | low    | 3      | name.com         |
+| drown.date  | available | $5.25     | $6.25         | medium         | low    | 5      | namesilo         |
+| dew.date    | premium   | $116      | $29.50        | medium         | low    | 3      | namesilo         |
+| froze.date  | available | $5.25     | $6.25         | medium         | low    | 5      | namesilo         |
+| fee.date    | premium   | $116      | $29.50        | high           | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of .date domains. The set includes direct keyword names, conversational phrases, and unusual word combinations, with examples such as Acup.date, LGBTQ.date, dogsit.date, getlife.date, and presents.date. For founders, the best options are usually the names that read naturally, communicate a use case fast, and remain easy to say and recall. For investors, the key question is whether a term has obvious end-user relevance at the right ask. With a median ask of $172, price is accessible, but .date is a niche extension, so renewal cost, buyer fit, and resale depth matter more than raw volume.
+This list of .date domain names centers on short, one-word titles such as BarUp.date, LightUp.date, and BonVoyage.date. With 12,662 names in this selection and a median asking price near $216, the .date extension offers a wide, affordable pool of memorable one-word options. Names range from everyday verbs and objects to distinctive brand-style words, making the TLD flexible for uses well beyond dating-related sites.
 
-- All results use the .date extension
-- Median ask across this set is $172
-- Prioritize natural phrase fit over novelty
-- Check renewal cost before judging the ask
+- 12,662 one-word .date domain names in this selection
+- Median asking price near $216 per domain
+- Brandable picks like PopUp.date and BarUp.date
+- Short, single-word structure across the list
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DATE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DATE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
