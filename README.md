@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .date one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,789 domains · **Median ask:** $151.58 · **High-demand under $2,500:** 38
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/date`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| ahuh.date   | available | $5.25     | $6.25         | high           | low    | 4      | namesilo         |
-| yesno.date  | resell    | $9.98     | —             | low            | low    | 6      | GoDaddy.com, LLC |
-| aid.date    | premium   | $375      | —             | medium         | low    | 3      | name.com         |
-| cxxv.date   | available | $5.25     | $6.25         | low            | low    | 4      | namesilo         |
-| change.date | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
-| ala.date    | premium   | $375      | —             | high           | low    | 3      | name.com         |
-| grew.date   | available | $5.25     | $6.25         | high           | low    | 4      | namesilo         |
-| ane.date    | premium   | $375      | $62.50        | low            | low    | 3      | name.com         |
-| laws.date   | available | $5.25     | $6.25         | high           | low    | 4      | namesilo         |
-| axe.date    | premium   | $116      | $29.50        | medium         | low    | 3      | namesilo         |
-| lxiv.date   | available | $5.25     | $6.25         | low            | low    | 4      | namesilo         |
-| bay.date    | premium   | $375      | $62.50        | low            | low    | 3      | name.com         |
-| xvii.date   | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo         |
-| BJP.date    | premium   | $375      | —             | medium         | low    | 3      | name.com         |
-| xxii.date   | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo         |
-| btw.date    | premium   | $375      | —             | high           | low    | 3      | name.com         |
-| apian.date  | available | $5.25     | $6.25         | low            | low    | 5      | namesilo         |
-| bum.date    | premium   | $375      | $62.50        | low            | low    | 3      | name.com         |
-| azido.date  | available | $5.25     | $6.25         | low            | low    | 5      | namesilo         |
-| CNN.date    | premium   | $375      | —             | high           | low    | 3      | name.com         |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| feel.date      | premium   | $390      | $65           | high           | low    | 4      | namecheap        |
+| clean.date     | premium   | $375      | —             | high           | low    | 5      | name.com         |
+| something.date | premium   | $375      | —             | high           | low    | 9      | name.com         |
+| fuck.date      | available | —         | —             | high           | medium | 4      | —                |
+| ahuh.date      | available | $5.25     | $6.25         | high           | low    | 4      | namesilo         |
+| yesno.date     | resell    | $9.98     | —             | low            | low    | 6      | GoDaddy.com, LLC |
+| aid.date       | premium   | $375      | —             | medium         | low    | 3      | name.com         |
+| cxxv.date      | available | $5.25     | $6.25         | low            | low    | 4      | namesilo         |
+| change.date    | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
+| ala.date       | premium   | $375      | —             | high           | low    | 3      | name.com         |
+| grew.date      | available | $5.25     | $6.25         | high           | low    | 4      | namesilo         |
+| ane.date       | premium   | $375      | $62.50        | low            | low    | 3      | name.com         |
+| laws.date      | available | $5.25     | $6.25         | high           | low    | 4      | namesilo         |
+| axe.date       | premium   | $116      | $29.50        | medium         | low    | 3      | namesilo         |
+| lxiv.date      | available | $5.25     | $6.25         | low            | low    | 4      | namesilo         |
+| bay.date       | premium   | $375      | $62.50        | low            | low    | 3      | name.com         |
+| xvii.date      | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo         |
+| BJP.date       | premium   | $375      | —             | medium         | low    | 3      | name.com         |
+| xxii.date      | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo         |
+| btw.date       | premium   | $375      | —             | high           | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DATE One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DATE One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
