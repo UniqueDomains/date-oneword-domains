@@ -1,10 +1,10 @@
-# Available .DATE One-Word Domains (14,463)
+# Available .DATE One-Word Domains (23,713)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C463%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C713%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .date one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **14,463 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,713 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 14,463 domains · **Median ask:** $192.60 · **High-demand under $2,500:** 27
+**Public extract:** 1,000 rows · **Live catalog:** 23,713 domains · **Median ask:** $210.51 · **High-demand under $2,500:** 56
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/date`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| ahuh.date   | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                      |
-| law.date    | resell    | —         | —             | high           | medium | 3      | West263 International Limited |
-| abc.date    | premium   | $650      | $325          | high           | medium | 3      | namecheap                     |
-| cxxv.date   | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                      |
-| change.date | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC              |
-| aid.date    | premium   | $375      | —             | high           | low    | 3      | name.com                      |
-| eggs.date   | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                      |
-| aim.date    | premium   | $375      | —             | high           | low    | 3      | name.com                      |
-| grew.date   | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                      |
-| ala.date    | premium   | $375      | —             | high           | low    | 3      | name.com                      |
-| laws.date   | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                      |
-| ane.date    | premium   | $375      | $62.50        | high           | low    | 3      | name.com                      |
-| lxiv.date   | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                      |
-| aug.date    | premium   | $375      | $62.50        | high           | low    | 3      | name.com                      |
-| lxxi.date   | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                      |
-| axe.date    | premium   | $116      | $29.50        | high           | low    | 3      | namesilo                      |
-| otic.date   | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                      |
-| bay.date    | premium   | $375      | $62.50        | high           | low    | 3      | name.com                      |
-| pill.date   | available | $9.98     | —             | high           | low    | 4      | namecheap                     |
-| bjp.date    | premium   | $375      | —             | high           | low    | 3      | name.com                      |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| aten.date | available | $5.98     | $9.98         | medium         | low    | 4      | namecheap        |
+| log.date  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| abm.date  | premium   | $390      | $130          | high           | low    | 3      | namecheap        |
+| ayin.date | available | $5.25     | $6.25         | high           | low    | 4      | namesilo         |
+| aku.date  | premium   | $384      | $116          | high           | low    | 3      | namesilo         |
+| bleb.date | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo         |
+| ang.date  | premium   | $116      | $29.50        | high           | low    | 3      | namesilo         |
+| dewy.date | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo         |
+| atf.date  | premium   | $130      | $32.50        | high           | low    | 3      | namecheap        |
+| dyke.date | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo         |
+| axe.date  | premium   | $116      | $29.50        | high           | low    | 3      | namesilo         |
+| grub.date | available | $5.25     | $6.25         | high           | low    | 4      | namesilo         |
+| bam.date  | premium   | $130      | $32.50        | high           | low    | 3      | namecheap        |
+| isbn.date | available | $5.25     | $6.25         | high           | low    | 4      | namesilo         |
+| beg.date  | premium   | $375      | —             | high           | low    | 3      | name.com         |
+| limp.date | available | $5.25     | $6.25         | high           | low    | 4      | namesilo         |
+| bop.date  | premium   | $116      | $29.50        | high           | low    | 3      | namesilo         |
+| neem.date | available | $5.25     | $6.25         | high           | low    | 4      | namesilo         |
+| bow.date  | premium   | $130      | $32.50        | high           | low    | 3      | namecheap        |
+| oily.date | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 14,463 live domains                        |
+| 1,000-row public sample | 23,713 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 27 high-demand names under $2,500          |
+| Basic exported fields   | 56 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DATE One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DATE One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
