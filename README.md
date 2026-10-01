@@ -1,10 +1,10 @@
-# Available .DATE One-Word Domains (29,655)
+# Available .DATE One-Word Domains (32,160)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C655%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C160%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .date one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **29,655 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,160 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 29,655 domains · **Median ask:** $215.86 · **High-demand under $2,500:** 80
+**Public extract:** 1,000 rows · **Live catalog:** 32,160 domains · **Median ask:** $214.34 · **High-demand under $2,500:** 91
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/date`
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,7 @@ print(df.head())
 | domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | aten.date | available | $5.98     | $9.98         | medium         | low    | 4      | namecheap        |
-| log.date  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| log.date  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
 | abm.date  | premium   | $390      | $130          | high           | low    | 3      | namecheap        |
 | bleb.date | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo         |
 | aca.date  | premium   | $384      | $116          | high           | low    | 3      | namesilo         |
@@ -76,14 +76,14 @@ print(df.head())
 | gabe.date | available | $5.25     | $6.25         | high           | low    | 4      | namesilo         |
 | asc.date  | premium   | $310.70   | $51.95        | high           | low    | 3      | spaceship        |
 | hoax.date | available | $4.18     | $5.18         | high           | low    | 4      | cloudflare       |
-| ata.date  | premium   | $310.70   | $51.95        | high           | low    | 3      | spaceship        |
-| neem.date | available | $5.25     | $6.25         | high           | low    | 4      | namesilo         |
+| ata.date  | premium   | $310.70   | $51.95        | medium         | low    | 3      | spaceship        |
+| klan.date | available | $4.61     | $5.64         | medium         | low    | 4      | porkbun          |
 | atf.date  | premium   | $130      | $32.50        | high           | low    | 3      | namecheap        |
-| oily.date | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo         |
+| neem.date | available | $5.25     | $6.25         | high           | low    | 4      | namesilo         |
 | axe.date  | premium   | $116      | $29.50        | high           | low    | 3      | namesilo         |
-| rimy.date | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo         |
-| beg.date  | premium   | $375      | —             | high           | low    | 3      | name.com         |
-| tung.date | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo         |
+| nkvd.date | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo         |
+| beg.date  | premium   | $310.70   | $51.95        | high           | low    | 3      | spaceship        |
+| oily.date | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 29,655 live domains                        |
+| 1,000-row public sample | 32,160 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 80 high-demand names under $2,500          |
+| Basic exported fields   | 91 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DATE One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DATE One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
